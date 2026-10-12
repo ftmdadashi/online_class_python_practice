@@ -52,7 +52,7 @@ else :
         print("bazi mosavi ast.")
         
     
-
+#dar in tabe mitoni az random estefade koni
 
         
         
